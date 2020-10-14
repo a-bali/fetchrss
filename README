@@ -1,0 +1,3 @@
+FetchRSS is a simple bash script depending only on wget and xmllint (part of libxml)
+that fetches RSS feeds and downloads all new directly linked files from the feed that
+have not been downloaded previously.
